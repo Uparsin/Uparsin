@@ -1,7 +1,6 @@
-i, I’m @Uparsin
-I’m interested in wide sphere of IT specialities, medicine (especially, psychopharmacology) and borderline topics between them.
-I’m currently learning basics of Python.
-How to reach me: upharesin@gmail.com
+Hi, I’m @Uparsin
+Currently that place serves as a place where I'm practicing basics of Python and, probably, some HTML and JS.
+How to reach me: upharesi@gmail.com
 
 <!---
 Uparsin/Uparsin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
